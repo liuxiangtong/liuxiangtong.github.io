@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://b.aipishangmeng.com</id>
+    <id>http://b.aipishangmeng.com</id>
     <title>iphone</title>
-    <updated>2019-06-07T08:38:37.092Z</updated>
+    <updated>2019-06-07T08:43:44.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://b.aipishangmeng.com"/>
-    <link rel="self" href="https://b.aipishangmeng.com/atom.xml"/>
+    <link rel="alternate" href="http://b.aipishangmeng.com"/>
+    <link rel="self" href="http://b.aipishangmeng.com/atom.xml"/>
     <subtitle>手机高效使用教练</subtitle>
-    <logo>https://b.aipishangmeng.com/images/avatar.png</logo>
-    <icon>https://b.aipishangmeng.com/favicon.ico</icon>
+    <logo>http://b.aipishangmeng.com/images/avatar.png</logo>
+    <icon>http://b.aipishangmeng.com/favicon.ico</icon>
     <rights>All rights reserved 2019, iphone</rights>
     <entry>
         <title type="html"><![CDATA[Hello ]]></title>
-        <id>https://b.aipishangmeng.com/post/hello-gridea</id>
-        <link href="https://b.aipishangmeng.com/post/hello-gridea">
+        <id>http://b.aipishangmeng.com/post/hello-gridea</id>
+        <link href="http://b.aipishangmeng.com/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
